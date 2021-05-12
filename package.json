@@ -45,7 +45,7 @@
     "lodash": "^4.17.15",
     "mailsplit": "^4.6.4",
     "ms": "^2.1.2",
-    "nodemailer": "6.4.2",
+    "nodemailer": "6.4.16",
     "parse-domain": "^2.3.4",
     "pino": "^6.0.0",
     "punycode": "^2.1.1",
